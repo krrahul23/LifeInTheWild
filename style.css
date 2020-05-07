@@ -17,7 +17,7 @@ img {
 	width:450px;
 	height:300px;
 	margin:10px;
-	transform: all 1s;
+	transition: all 1s;
 
 }
 img:hover {
